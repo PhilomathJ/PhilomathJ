@@ -1,3 +1,11 @@
+- Javascript
+- Typescript
+- Apps Script
+- SQL
+- PL/SQL
+- HTML
+- CSS
+
 [Best TV Show ever](https://taskmaster.tv/)
 
 
