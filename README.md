@@ -1,6 +1,6 @@
-- Javascript
 - Typescript
 - Apps Script
+- Javascript
 - SQL
 - PL/SQL
 - HTML
