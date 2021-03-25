@@ -5,6 +5,8 @@
 - PL/SQL
 - HTML
 - CSS
+- Tableau
+- Alteryx
 
 [Best TV Show ever](https://taskmaster.tv/)
 
