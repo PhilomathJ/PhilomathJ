@@ -1,10 +1,13 @@
 - Typescript
 - Apps Script
 - Javascript
+- Node.js
 - SQL
-- PL/SQL
+- Google Big Query
 - HTML
 - CSS
+- PL/SQL
+- Excel/VBA
 - Tableau
 - Alteryx
 
