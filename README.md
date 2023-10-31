@@ -2,8 +2,9 @@
 - Apps Script
 - Javascript
 - Node.js
+- Google BigQuery
+- Google Cloud Platform
 - SQL
-- Google Big Query
 - HTML
 - CSS
 - PL/SQL
